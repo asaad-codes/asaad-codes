@@ -5,22 +5,25 @@
 - 🔭 I’m currently working on REST APIs  
 - 🌱 I’m learning Node.js, Express & MongoDB  
 - 💻 I love building backend systems  
-- 📫 Reach me: your email  
+- 📫 Reach me on LinkedIn: linkedin.com/in/asad-omair-197527249  
 
 ---
 
 ## 🛠️ Tech Stack
 - Node.js  
 - Express.js  
-- Git & GitHub  
+- MongoDB  
+- Git  
+- GitHub  
 - Postman  
 
 ---
 
 ## 📌 Projects
-- 📝 Notes API (CRUD Backend Project)
+- 📝 Notes API (CRUD Backend Project)  
+- 🚧 Building more projects — just getting started  
 
 ---
 
 ## ⚡ Goal
-Become a professional Backend Developer 🚀
+Become a professional Full Stack Developer 🚀
