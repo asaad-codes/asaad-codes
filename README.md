@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi 👋, I'm Asad
 
-<!--
-**asaad-codes/asaad-codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Aspiring Backend Developer
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on REST APIs  
+- 🌱 I’m learning Node.js, Express & MongoDB  
+- 💻 I love building backend systems  
+- 📫 Reach me: your email  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+- Node.js  
+- Express.js  
+- Git & GitHub  
+- Postman  
+
+---
+
+## 📌 Projects
+- 📝 Notes API (CRUD Backend Project)
+
+---
+
+## ⚡ Goal
+Become a professional Backend Developer 🚀
